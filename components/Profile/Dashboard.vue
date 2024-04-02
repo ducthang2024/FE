@@ -16,11 +16,11 @@
             </div>
             <div class="border-b border-gray-300 pb-3 my-4 font-semibold">Thông tin tài khoản</div>
             <div class="flex justify-between">
-                <div>Số đơn hàng thành công năm 2023:</div>
+                <div>Số đơn hàng thành công năm {{ new Date().getFullYear() }}:</div>
                 <div class="font-semibold">0</div>
             </div>
             <div class="flex justify-between">
-                <div>Số tiền đã thanh toán năm 2023:</div>
+                <div>Số tiền đã thanh toán năm {{ new Date().getFullYear() }}:</div>
                 <div class="font-semibold">0</div>
             </div>
         </div>

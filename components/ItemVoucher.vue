@@ -10,7 +10,7 @@
             </div>
         </div>
         <div class="mb-4 text-gray-500 ">
-            Áp Dụng Cho Đơn Hàng Mua Sách Tôn Giáo Từ 300K
+            Áp Dụng Cho Đơn Hàng Mua Giày Từ 300K
         </div>
         <div class="flex items-center">
             <div class="w-4/5 flex flex-col">
